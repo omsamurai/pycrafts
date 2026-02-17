@@ -1,0 +1,6 @@
+.env
+__pychahe__/
+pycrafts.egg-info/
+*.pyc
+venv/
+test_bot.py
