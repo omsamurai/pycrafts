@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "pycrafts",
-    version = "0.0.1",
+    version = "0.0.2",
     description = "Simple to code telegram bot",
     author = "Om",
     packages = find_packages(),
